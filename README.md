@@ -7,7 +7,7 @@ I am Kamal Kishor 😃, Delhi-based, Indian Freelance UI/UX designer.I like to r
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Backend development using **MySQL**
+- Backend development using **MySQL,MongoDB**
 - CMS development using **Wordpress, Drupal**
 - Javascript Framework development using **Angular**
 - Desktop application development using **Flutter**(Still learning)
