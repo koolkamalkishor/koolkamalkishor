@@ -9,7 +9,7 @@
 
 ## 👋 I'm Kamal Kishor — Sr. Frontend Developer | Angular & React Expert | Node.js Developer | AI Engineer-in-Progress
 
-I'm a Delhi-based tech enthusiast with **6+ years of professional experience** in full-stack web development, Angular/React/Node.js architecture, and enterprise-grade SaaS product development. I specialize in building scalable, high-performance web apps and AI-driven systems.
+I'm a Delhi-based tech enthusiast with **8+ years of professional experience** in full-stack web development, Angular/React/Node.js architecture, and enterprise-grade SaaS product development. I specialize in building scalable, high-performance web apps and AI-driven systems.
 
 Currently working on futuristic **Agentic AI Analytics Systems** and **autonomous AI SDR tools**, I blend robust frontend engineering with backend logic across domains like **Sales, Marketing, Supply Chain, and CRM**. I also lead frontend architecture using Angular and React, optimize ERP integrations, and build intelligent microservices with Node.js.
 
