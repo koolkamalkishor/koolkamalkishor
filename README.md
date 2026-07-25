@@ -95,19 +95,18 @@ Throughout my 8+ years in the industry, I have spearheaded the development of ro
 ### 📈 Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koolkamalkishor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Kamal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=koolkamalkishor&show_icons=true&theme=tokyonight&hide_border=true" alt="Kamal's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=koolkamalkishor&theme=tokyonight&hide_border=true&background=0D1117" alt="Kamal's GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koolkamalkishor&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koolkamalkishor&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </div>
 
 <br/>
 
-<!-- SEO Keywords (Hidden for visual cleanliness but parseable by search engines) -->
-<div style="display:none">
-  Kamal Kishor, Frontend Developer in Delhi, React TypeScript Angular Developer, Agentic AI Developer, Node.js SaaS Engineer, Lead Scoring AI, Enterprise SaaS Developer India, RAG chatbot developer, ERP CRM integration, Gemini AI, Next.js AI Developer, Angular Node Full Stack Developer, Freelance Web Developer India, LLM Fine-Tuning, LangGraph, Vector Databases, CrewAI
-</div>
+<!-- SEO Keywords:
+Kamal Kishor, Frontend Developer in Delhi, React TypeScript Angular Developer, Agentic AI Developer, Node.js SaaS Engineer, Lead Scoring AI, Enterprise SaaS Developer India, RAG chatbot developer, ERP CRM integration, Gemini AI, Next.js AI Developer, Angular Node Full Stack Developer, Freelance Web Developer India, LLM Fine-Tuning, LangGraph, Vector Databases, CrewAI
+-->
